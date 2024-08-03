@@ -1,7 +1,7 @@
 app_name = "rentals"
 app_title = "Rentals"
 app_publisher = "Tikeshwari"
-app_description = "this is rentals"
+app_description = "This is rentals app"
 app_email = "tikeshwarisahu23@navgurukul.org"
 app_license = "mit"
 # required_apps = []

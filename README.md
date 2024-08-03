@@ -1,6 +1,6 @@
 ## Rentals
 
-this is rentals
+This is rentals app
 
 #### License
 
